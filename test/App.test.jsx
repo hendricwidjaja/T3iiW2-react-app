@@ -33,4 +33,4 @@ test("Render the App component with a button that increases the count", async ()
 
     // Check the button's text for "count is 1"
     expect(counterButton).toHaveTextContent("count is 1")
-})
+});
