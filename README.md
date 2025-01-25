@@ -8,7 +8,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 React Testing Library
-Levels:
+- Levels:
     - render content and check if the rendered content is as expected
     - render content and simulate interactions
     - render content with Context
